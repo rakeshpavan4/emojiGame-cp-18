@@ -1,0 +1,27 @@
+/* Write your code here. */
+.navbar-container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  height: 60px;
+  background-size: cover;
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+  color: white;
+  font-family: 'Roboto';
+}
+.logo-name {
+  display: flex;
+  margin-left: 25px;
+  justify-content: center;
+  align-items: center;
+}
+.scores {
+  display: flex;
+  margin-right: 85px;
+}
+.Emoji-heading {
+  padding: 7px;
+}
+.scores-para {
+  padding-right: 7px;
+}
